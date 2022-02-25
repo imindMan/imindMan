@@ -5,6 +5,6 @@
   
   <p>I'm a student 👨‍🎓 and still learning how to code like a pro 👩‍💻. I am seriously learning about software engineering. And I learn (not seriously) about game development 🎮🎮, specifically 
 Unity.</p>
-  <p>I'm good at logical thinking and programming 👩‍💻👩‍💻👨‍💻, maybe I'm patient to, especially research documents 📄📃📄.</p>
+  <p>I'm good at logical thinking and programming 👩‍💻👩‍💻👨‍💻, maybe I'm patient to, especially researching documents 📄📃📄.</p>
   <p>Now ⌚⏲, it's time to: SAY "HELLO WORLD" 🌎🌐🌍🌏</p>
 </p>
