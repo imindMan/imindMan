@@ -37,8 +37,6 @@ I **mainly code** in **Python 🐍, Java ☕, C/Assembly 👴** and **currently 
 
 I use **Neovim for mainly coding, Git/GitHub for storing code online** and **literally everything on Linux 🤣**. Somehow I ~~am forced to use~~ use Microsoft products.
 
-I'm trying to fix and improve myself everything. So, I hope you can support me.
-
 # My achievements
 🔥 🔥 🔥
 
