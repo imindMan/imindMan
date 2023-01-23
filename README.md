@@ -1,5 +1,5 @@
 <div id="header" align="center"><img src="https://cdn.discordapp.com/attachments/1064529422079758346/1064534635838717972/unnamed.gif"/></div>
-<h3 align="center">CONSTANT STATUS: CODING</h3>
+<h3 align="center">CODING</h3>
 
 <div id="badges" align="center">
   <a href="https://github.com/imindMan">
