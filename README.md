@@ -37,14 +37,6 @@ I **mainly code** in **Python 🐍, Java ☕, C/Assembly 👴** and **currently 
 
 I use **Neovim for mainly coding, Git/GitHub for storing code online** and **literally everything on Linux 🤣**. Somehow I ~~am forced to use~~ use Microsoft products.
 
-# Something weird (and bad) about me
-
-- I **misspell** literally everything.
-- I **use words incorrectly**, even I know what I'm talking about. 
-- I'm **bad at debating**. If you see me **talking trash and spouting bullshit**, then stop me.
-- I'm **illusory** and **dreamy**. That's why my nickname is imindMan, which means "illusory-mind Man", and it should pronounced like this **"ai-maind-mein"**.
-- And I'm **addicted to coding**.
-
 I'm trying to fix and improve myself everything. So, I hope you can support me.
 
 # My achievements
