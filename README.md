@@ -45,5 +45,6 @@ I use **Neovim for mainly coding 📝, Git/GitHub for storing code online 🏪**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imindMan&theme=nord&hide_border=true)](https://git.io/streak-stats)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=imindMan&layout=compact&theme=nord&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imindMan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
