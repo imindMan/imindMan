@@ -27,18 +27,18 @@ Somehow I'm not a newbie anymore. But, I'm still lol. 🤡
 
 My real name is **Thái Lê Khánh Đông**. I'm from **Vietnam** 🇻🇳 and I'm currently a **high-school student** 🏫. I'm **still learning** how to code like a pro 👩‍💻. 
 
-I love **Linux** 🐧, and ***I use Arch Linux, btw***. But somehow you'll still meet me using **Microsoft products**, that's because I'm ~~**forced to use them.**~~
+I love **Linux** 🐧, and ***I use Arch Linux, btw***. But somehow you'll still meet me using **Microsoft products** 🪟, that's because I'm ~~**forced to use them.**~~
 
-As expected, I'm another **alone coder**. **~~I'm good at coding~~.** and I still **wanna reach to the expert level.**
+As expected, I'm another **alone coder** 💻. **~~I'm good at coding~~.** and I still **wanna reach to the expert level.**
 
 # Something special about me 
 As I said, nothing special.
 
-Well, I'm **a student**, and currently **a solo coder**. But I still **wanna contribute some free and open-source softwares** (because I'm a big fan of **FOSS** and **LINUS TORVALD** 🐧 🐧).
+Well, I'm **a student**, and currently **a solo coder** 💻. But I still **wanna contribute some free and open-source softwares** (because I'm a big fan of **FOSS** and **LINUS TORVALD** 🐧 🐧).
 
 I **mainly code** in **Python 🐍, Java ☕, C/Assembly 👴** and **currently learn how to code Rust, JavaScript and Lua 👶**.
 
-I use **Neovim for mainly coding, Git/GitHub for storing code online** and **literally everything on Linux 🤣**. Somehow I ~~am forced to use~~ use Microsoft products.
+I use **Neovim for mainly coding 📝, Git/GitHub for storing code online 🏪** and **literally everything on Linux 🤣**. Somehow I ~~am forced to use~~ use Microsoft products 🪟. 
 
 # My achievements
 🔥 🔥 🔥
