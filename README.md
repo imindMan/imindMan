@@ -31,8 +31,6 @@ I love **Linux** 🐧, and ***I use Arch Linux, btw***. But somehow you'll still
 
 As expected, I'm another **alone coder**. **~~I'm good at coding~~.** and I still **wanna reach to the expert level.**
 
-<img align="left" src="https://metrics.lecoq.io/imindMan?template=classic&isocalendar=1&languages=1&stars=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FHo_Chi_Minh" />
-
 # Something special about me 
 As I said, nothing special.
 
