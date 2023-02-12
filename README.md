@@ -36,7 +36,7 @@ As I said, nothing special.
 
 Well, I'm **a student**, and currently **a solo coder** 💻. But I still **wanna contribute some free and open-source softwares** (because I'm a big fan of **FOSS** and **LINUS TORVALD** 🐧 🐧).
 
-I **mainly code** in **Python 🐍, Java ☕, C/Assembly 👴** and **currently learn how to code Rust, JavaScript and Lua 👶**.
+I **mainly code** in **Python 🐍, C/C++ 👴** and **currently learn how to code Rust, JavaScript and Lua 👶**.
 
 I use **Neovim for mainly coding 📝, Git/GitHub for storing code online 🏪** and **literally everything on Linux 🤣**. Somehow I ~~am forced to use~~ use Microsoft products 🪟. 
 
