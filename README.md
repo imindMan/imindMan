@@ -1,5 +1,8 @@
 <div id="header" align="center"><img src="https://cdn.discordapp.com/attachments/1064529422079758346/1064534635838717972/unnamed.gif"/></div>
-<h3 align="center">CODING EVERYDAY AND EVERYWHERE LIKE A HACKER</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=CODING+EVERYDAY+AND+EVERYWHERE+LIKE+A+HACKER" alt="Typing SVG" /></a>
+</p>
 
 <div id="badges" align="center">
   <a href="https://github.com/imindMan">
