@@ -14,6 +14,9 @@
   <a href="https://open.spotify.com/user/otcorbsq9163zy1rq8apka7u7">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
+  <a href="https://www.reddit.com/user/imindMan">
+    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=imindMane&style=flat-square&color=blue" alt=""/>
