@@ -31,7 +31,7 @@
 
 Somehow I'm not a newbie anymore. But, I'm still lol. 🤡
 
-My real name is **Thái Lê Khánh Đông**. I'm from **Vietnam** 🇻🇳 and I'm currently a **high-school student** 🏫. I'm **still learning** how to code like a pro 👩‍💻. 
+My real name is **Thái Lê Khánh Đông**. I'm from **Vietnam** 🇻🇳 and I'm currently a **student** 🏫. I'm **still learning** how to code like a pro 👩‍💻. 
 
 I love **Linux** 🐧, and ***I use Arch Linux, btw***. But somehow you'll still meet me using **Microsoft products** 🪟, that's because I'm ~~**forced to use them.**~~
 
