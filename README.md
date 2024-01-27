@@ -17,38 +17,22 @@
   <a href="https://www.reddit.com/user/imindMan">
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
+  <a href="https://www.pinterest.com/imindMan/">
+    <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge">
+  </a>
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=imindMane&style=flat-square&color=blue" alt=""/>
   <img src="https://img.shields.io/github/stars/imindMan?affiliations=OWNER%2CCOLLABORATOR" alt=""/>
 </div>
 
-# A short introduction about me 👀
+# A short introduction about me 
 
-> Nothing special
->
-> -imindMan
+Somehow I'm not a newbie anymore. Somehow, I'm still lol. 
 
-Somehow I'm not a newbie anymore. But, I'm still lol. 🤡
+I'm a **Linux and FOSS** enthusiast and also a **solo** coder. I mostly code in **C/C++, Rust and Python** and mainly code **softwares**.
 
-My real name is **Thái Lê Khánh Đông**. I'm from **Vietnam** 🇻🇳 and I'm currently a **student** 🏫. I'm **still learning** how to code like a pro 👩‍💻. 
-
-I love **Linux** 🐧, and ***I use Arch Linux, btw***. But somehow you'll still meet me using **Microsoft products** 🪟, that's because I'm ~~**forced to use them.**~~
-
-As expected, I'm another **alone coder** 💻. **~~I'm good at coding~~.** and I still **wanna reach to the expert level.**
-
-# Something special about me 
-As I said, nothing special.
-
-Well, I'm **a student**, and currently **a solo coder** 💻. But I still **wanna contribute some free and open-source softwares** (because I'm a big fan of **FOSS** and **LINUS TORVALD** 🐧 🐧).
-
-I **mainly code** in **Python 🐍, C/C++ 👴** and **currently learn how to code Rust, JavaScript and Lua 👶**.
-
-I use **Neovim for mainly coding 📝, Git/GitHub for storing code online 🏪** and **literally everything on Linux 🤣**. Somehow I ~~am forced to use~~ use Microsoft products 🪟. 
-
-# My achievements
-🔥 🔥 🔥
-
+Still wonder a lot of stuff.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=imindMan&layout=compact&theme=nord&show-icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imindMan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
