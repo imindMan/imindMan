@@ -30,7 +30,7 @@
 
 Somehow I'm not a newbie anymore. Somehow, I'm still lol. 
 
-I'm a **Linux and FOSS** enthusiast and also a **solo** coder. I mostly code in **C/C++, Rust and Python** and mainly code **softwares**.
+I'm a **Linux and FOSS** enthusiast and also a **solo** coder. I mostly code in **Python and Rust** and mainly code **softwares*.
 
 Still wonder a lot of stuff.
 
