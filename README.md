@@ -14,6 +14,9 @@
   <a href="https://x.com/imindman1269420">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
   </a>
+  <a href="https://mastodon.social/@imindMan">
+    <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge">
+  </a>
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=imindMane&style=flat-square&color=blue" alt=""/>
