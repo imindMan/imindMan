@@ -5,17 +5,11 @@
 </p>
 
 <div id="badges" align="center">
-  <a href="https://github.com/imindMan">
-    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a>
   <a href="https://discordapp.com/users/917681283595919391">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.reddit.com/user/imindMan">
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
-  <a href="https://mastodon.social/@imindMan">
-    <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge">
   </a>
   <a href="https://x.com/imindman1269420">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge">
