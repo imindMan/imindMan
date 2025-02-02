@@ -21,9 +21,7 @@
 
 Somehow I'm not a newbie anymore. Somehow, I'm still *lol*. 
 
-I'm just **a coder**. I'm not **a specialist** myself because even achieving to a decent competence in coding I still don't want to truly focus on one thing all the time. 
-
-There's one thing for sure. I'm a **Linux and FOSS** enthusiast
+I'm just a coder and a tech enthusiast.
 
 Still wonder a lot of stuff.
 
